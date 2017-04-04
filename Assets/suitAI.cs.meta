@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: d99e85a8b71024081902fda1507e1270
+timeCreated: 1438656227
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - energyText: {instanceID: 0}
+  - lifeSupText: {instanceID: 0}
+  - environment: {instanceID: 0}
+  - fade: {instanceID: 0}
+  - depletion: {instanceID: 0}
+  - ten: {fileID: 8300000, guid: 3b533a5a4cf7e42b183d713e64af1e7e, type: 3}
+  - twenty: {fileID: 8300000, guid: 57fec8220138148a28701e9ab7570cf3, type: 3}
+  - thirty: {fileID: 8300000, guid: 1cd9ca9a5689141af927992dd8b97d35, type: 3}
+  - forty: {fileID: 8300000, guid: fa3d7321d98ce45d9a0f6ba307f7ee17, type: 3}
+  - fifty: {fileID: 8300000, guid: 329564780f43d4eefa9985d3adf453e1, type: 3}
+  - sixty: {fileID: 8300000, guid: 5c854f924bddf44908031a5aef2df548, type: 3}
+  - seventy: {fileID: 8300000, guid: c6e43a672acbc4040b678545da5f85a5, type: 3}
+  - eighty: {fileID: 8300000, guid: 3b69bfa3ab69249c8ae5be7285929286, type: 3}
+  - ninety: {fileID: 8300000, guid: cf46d3fdd4905424085b97edb928db68, type: 3}
+  - hundred: {fileID: 8300000, guid: 473f2837893f54020af27a84fe3e62d5, type: 3}
+  - start: {fileID: 8300000, guid: 30559d8bf272d4edc8f442ba8ccafb3a, type: 3}
+  - dead: {fileID: 8300000, guid: 968e163d87db44cc0896494c58c86cbe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
